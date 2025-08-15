@@ -52,9 +52,6 @@ Contacts
 
 
 ## File Structure
-
-
-
 ├── contact_manager.py     # Main program
 ├── contact.json           # Contact data file (auto-created)
 └── README.md              # Project documentation
